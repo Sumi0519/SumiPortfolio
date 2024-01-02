@@ -1,2 +1,3 @@
 # SumiPortfolio
-portfolio
+
+Hi! I'm Sumi
